@@ -19,7 +19,7 @@ function divSelector(){
 function firstListItem(){
   return( $('#pic-list li:first-child' ));
   
-  // was    'ul li #pic-list:first-child '
+  // tried  'ul li #pic-list:first-child '
   // tried  'li #pic-list:first-child '
   // tried  'ul #pic-list:first-child '
   // tried  'ul li:first-child #pic-list'
